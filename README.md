@@ -32,5 +32,5 @@ Built an interactive Excel dashboard for stakeholder reporting.
 - 🚚 Same Day shipping is fastest but least used
 
 ## 📬 Contact
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourname)
+- **LinkedIn:** Raymond Palang(https://linkedin.com/in/mondataanalyst)
 - **Email:** raymondpalang0@gmail.com
